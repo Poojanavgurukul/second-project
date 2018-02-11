@@ -1,0 +1,23 @@
+body{
+	background-color:grey;
+}
+.image{
+	width:500px;
+	margin-left:400px;
+}
+.heading{
+	color:yellow;
+	text-align:center;
+}
+.text{
+	font-size:20px;
+	color:brown;
+}
+.header{
+	width:500px;
+	border-width:1px;
+	border-style:inset;
+}
+.styling{
+	text-decoration:none;
+}

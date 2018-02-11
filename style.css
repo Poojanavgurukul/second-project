@@ -1,0 +1,31 @@
+body{
+	background-color:grey;
+}
+.heading{
+	text-align:center;
+	color:yellow;
+}
+.text{
+	font-size:20px;
+	color:brown;
+}
+.content{
+	color:pink;
+	margin-left:450px;
+}
+.image{
+	width:500px;
+	margin-left: 400px;
+}
+.bullets{
+	list-style-type: square;
+	text-decoration:none;
+}
+.header{
+	width:500px;
+	border-style: inset;
+	border-width: 1px;
+}
+.styling{
+	text-decoration:none;
+}
